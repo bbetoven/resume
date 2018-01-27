@@ -1,4 +1,3 @@
-# youngpark.github.io
-A example website using Github.io
+# https://bbetoven.github.io/resume/
 
 My Resume
